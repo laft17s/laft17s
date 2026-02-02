@@ -1,5 +1,6 @@
 Hi! I'm @laft17s 👋 
 Software Dev & AI explorer. 
+
 TypeScript is my soulmate 💙. 
 
 🚀 Stack: NestJS, Angular & Flutter. 
