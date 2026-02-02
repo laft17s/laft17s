@@ -1,19 +1,13 @@
-Hi there, I'm @laft17s! 👋
-👨‍💻 Software Developer | AI Explorer | Typescript Enthusiast
-I am a passionate developer focused on building scalable, high-performance applications. Currently, I'm diving deep into the world of Artificial Intelligence to integrate smart solutions into modern web and mobile environments.
+Hi! I'm @laft17s 👋 
+Software Dev & AI explorer. 
+TypeScript is my soulmate 💙. 
 
-🚀 Technical Stack
-Languages: TypeScript (My absolute favorite! 💙), JavaScript, Dart.
+🚀 Stack: NestJS, Angular & Flutter. 
 
-Backend: Backend lover with NestJS.
+Building scalable apps while diving into Artificial Intelligence. 
 
-Frontend: Building robust SPAs with Angular.
+⛩️ Anime fan | 🎸 Latin Rock lover. 
 
-Mobile: Crafting beautiful cross-platform apps with Flutter.
+Driven by code, stories, and great music. 
 
-⚡ Fun Facts & Interests
-AI Journey: Incursing into AI to build the future of tech.
-
-Anime Fan: Always up for a good story, whether it's in code or a great manga/anime. ⛩️
-
-Rock Latino: My coding sessions are powered by the best Latin Rock hits. 🎸
+Let's build! 🚀
